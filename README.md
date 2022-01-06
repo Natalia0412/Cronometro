@@ -15,14 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-#### Link para visualizar o projeto
-Biscoito da sorte(https://monosnap.com/file/L3ZOwX50Ja3Ds1qouBCx4zugOmLlYo)
+#### Execução do Projeto
+![Gif da execução do Cronometro < width="50%">](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/bloggif_61d74636b9cba.gif)
 
 
-##### Imagem do Projeto
-
-
-![Pagina Inicial](https://github.com/Natalia0412/BiscoitoDaSorte/blob/1c7a147432880fb8c04e88a5e7cef11473bb6981/React%20App%20-%20Biscoito%20da%20sorte.png)
-
-
-![Click do Botão](https://github.com/Natalia0412/BiscoitoDaSorte/blob/b37049ebb87024316c339f92dc6e243694f0424c/React%20App%20-%20Biscoito%20da%20Sorte%20Frase.png)
