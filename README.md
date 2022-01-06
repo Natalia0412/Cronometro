@@ -28,7 +28,11 @@ Contagem iniciada
 
 ![Meio](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/React%20App_2.png)
 
-Para pausar , basta clicar em ** Pausar**
+Para pausar , basta clicar em **Pausar**
+
+![](https://github.com/Natalia0412/Cronometro/blob/105be831733424be97f37dbbeb3e1e02bc99350b/React%20App_4.png)
+
+E para continuar a cronometragem basta clicar em **Vai**
 
 ![](https://github.com/Natalia0412/Cronometro/blob/84434efed47b829448a9c1f9cfa1a7188c5dc15b/React%20App_3.png)
 
