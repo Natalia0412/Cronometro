@@ -21,13 +21,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ##### Detalhes
-Cronometro inicia em 0.00  
+Cronometro inicia em 0.0 , ao clicar em **Vai** , o cronometro inicia a contagem
 ![Inicio](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/React%20App_1.png)
 
-Ao clicar em **Vai** , o cronometro inicia a contagem
+Contagem iniciada
 
 ![Meio](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/React%20App_2.png)
 
 Para pausar , basta clicar em ** Pausar**
+
+![](https://github.com/Natalia0412/Cronometro/blob/84434efed47b829448a9c1f9cfa1a7188c5dc15b/React%20App_3.png)
 
 
