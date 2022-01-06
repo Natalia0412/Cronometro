@@ -16,6 +16,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 #### Execução do Projeto
-![Gif da execução do Cronometro < width="50%">](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/bloggif_61d74636b9cba.gif)
+![Gif da execução do Cronometro ](https://github.com/Natalia0412/Cronometro/blob/f363df07ec3b4202edc15733260c1b89ecd184b6/2.gif)
+
+
+
+##### Detalhes
+Cronometro inicia em 0.00  
+![Inicio](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/React%20App_1.png)
+
+Ao clicar em **Vai** , o cronometro inicia a contagem
+
+![Meio](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/React%20App_2.png)
+
+Para pausar , basta clicar em ** Pausar**
 
 
