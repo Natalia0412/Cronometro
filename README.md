@@ -34,6 +34,7 @@ Para pausar , basta clicar em **Pausar**
 
 E para continuar a cronometragem basta clicar em **Vai**
 
-![](https://github.com/Natalia0412/Cronometro/blob/84434efed47b829448a9c1f9cfa1a7188c5dc15b/React%20App_3.png)
+![](https://github.com/Natalia0412/Cronometro/blob/74efbe6b7f247c6512f931a89020dd6362e5a170/React%20App%20_5.png)
 
-
+E para encerrar a cronometragem só clicar em **Zerar** e o cronometro reinicia
+![Fim](https://github.com/Natalia0412/Cronometro/blob/895975e52bade87dd1cf24ab40986262bba47ed5/React%20App_1.png)
